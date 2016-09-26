@@ -57,10 +57,10 @@ x-aaa..
 x-aaakh
 x-aaa..
 b
-x-    af
-x-fff ..
-x-fff ..
-x-fff ..
+x-   ha
+x-fff..
+x-fff..
+x-fff..
 x-... h
 x-aaf .
 b
@@ -299,7 +299,7 @@ x-   e
 x-   f
 x-   b
 x-   c
-x-aaa d&_
+x-a&_a&_a&_ d
 b
 x-aaa c
 x-aaa a
@@ -333,7 +333,7 @@ x- aac .
 b
 x- aacd
 x- aacc
-x- aaaa
+x- aaca
 x- aac d
 x- aac a
 x- aac d
@@ -390,7 +390,7 @@ x- acb..
 x-cac ..
 x- acb..
 x-dac ..
-x- ac ..
+x-.ac ..
 bX
 m
 m
@@ -414,14 +414,14 @@ x-h.   .
 b
 S3-4
 #1ha
-x-|f&_.
-x-|h.
+x|f&_.
+x|h.
 x-f.
 #1ea
 x-a.
 #1ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 S2-4
@@ -436,14 +436,14 @@ x-h.   .
 b
 S3-4
 #1ha
-x-|f&_.
-x-|h.
+x|f&_.
+x|h.
 x-f.
 #1ea
 x-a.
 #1ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 
@@ -461,8 +461,8 @@ b
 S3-4
 #1nlkma
 x-m....
-x-|k....
-x-|m....
+x|k....
+x|m....
 x-k....
 b
 1h&_k&_k&_  a
@@ -473,12 +473,12 @@ x-  b  .
 2# a   .
 x-a    .
 x-ea   .
-x-h    .
+x-h.   .
 b
 #1nllla
 x-l....
-x-|j....
-x-|l....
+x|j....
+x|l....
 x-j....
 b
 
@@ -495,14 +495,14 @@ x-h.   .
 b
 S3-4
 #1ha
-x-|f&_.
-x-|h.
+x|f&_.
+x|h.
 x-f.
 #1ea
 x-a.
 #1ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 S2-4
@@ -517,14 +517,14 @@ x-h.   .
 b
 S3-4
 #1ha
-x-|f&_.
-x-|h.
+x|f&_.
+x|h.
 x-f.
 #1ea
 x-a.
 #1ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 
@@ -538,8 +538,8 @@ x-a    .
 x-c    .
 x-e    .
 1#ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 2#     a
@@ -551,8 +551,8 @@ x-a    .
 x-c    .
 x-e    .
 1#ecccc
-x-|c&_....
-x-|e....
+x|c&_....
+x|e....
 x-c....
 b
 S2-4
@@ -591,14 +591,14 @@ x-c....
 x-c....
 1!a....
 bX
-[to coda }
+[ to Coda }
 m
 m
 m
 m
 
 b
-1!hhjkkh
+1!hhjkkh TVII
 x- hjk
 x- ^n^n
 b
@@ -606,37 +606,37 @@ b
 x- hjk
 x- ^n^n
 b
-1!jjkllj
+1!jjkllj TVIII
 x- jkl
 x- ^n^n
 b
-1!hhjkkh
+1!hhjkkh TVII
 x- hjk
 x- ^n^n
 b
 
 b
-1!ffghhf
+1!ffghhf TV
 x- fjh
 x- ^n^n
 b
-1!ddeffd
+1!ddeffd TIII
 x- def
 x- ^n^n
 b
-1!bbcddb
+1!bbcddb TI
 x- bcd
 x- ^n^n
 b
 [ D.S. al C }
-1!ccdeec
+1!ccdeec TII
 x- cde
 % sic.
 x- ^n
 b
 
 b
-[ Coda C }
+[ Coda }
 S3-4
 x-cacbc
 x-.ac..
@@ -706,7 +706,7 @@ x-aaa..
 x-aaakh
 x-aaa..
 b
-x-    af
+x-    ha
 x-fff ..
 x-fff ..
 x-fff ..
@@ -740,10 +740,10 @@ x-     d
 x- aab .
 x- aab .
 x- aab .
-x- ...cc
+x- ...c&Uc
 x- acb..
 b
-x-    ha
+x-    "Xha
 x-aaa ..
 x-aaa ..
 x-aaa ..
@@ -952,7 +952,7 @@ x-   e
 x-   f
 x-   b
 x-   c
-x-aaa d&_
+x-a&_a&_a&_ d
 b
 x-aaa c
 x-aaa a
@@ -986,7 +986,7 @@ x- aac .
 b
 x- aacd
 x- aacc
-x- aaaa
+x- aaca
 x- aac d
 x- aac a
 x- aac d
